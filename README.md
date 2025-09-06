@@ -7,7 +7,7 @@ git clone https://github.com/AlgorithmsAroundYou/HireSenceAI.git
 python3 -m venv venv
 
 ## activate virtual enviorment
-/Users/saikumarkodati/python_workspace/HireSenceAI/venv/bin/activate
+/venv/bin/activate
 
 ## install dependencies from
 pip install -r requirements.txt
