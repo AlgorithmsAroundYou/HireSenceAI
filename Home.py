@@ -16,12 +16,12 @@ def run():
 
     st.balloons()
     st.info('This is a purely demo applications', icon="ℹ️")
-    st.write("# Welcome to Agiliad AI Apps! 👋")
+    st.write("# Welcome to AI Apps! 👋")
     st.snow()
 
     st.markdown(
         """
-        Agiliad AI Apps is a collection of applications that leverage the power of AI to solve various problems.
+        AI Apps is a collection of applications that leverage the power of AI to solve various problems.
 
         ## Features
         - **AI-Powered Solutions**: Explore applications that utilize AI to enhance productivity and creativity.

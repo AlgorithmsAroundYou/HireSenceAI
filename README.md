@@ -1,6 +1,16 @@
+# HireSenceAI
+
+## clone application
+git clone https://github.com/AlgorithmsAroundYou/HireSenceAI.git
+
+## create virtual enviornment
+python3 -m venv venv
 
 ## activate virtual enviorment
-source /Users/saikumarkodati/python_workspace/.genai/bin/activate
+/Users/saikumarkodati/python_workspace/HireSenceAI/venv/bin/activate
+
+## install dependencies from
+pip install -r requirements.txt
 
 ## run application
 streamlit run Home.py
